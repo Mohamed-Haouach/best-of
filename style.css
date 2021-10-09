@@ -1,0 +1,25 @@
+#title{
+    font-family: 'Courier New', monospace;
+    font-style: italic;
+    font-style: oblique;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px orangered, 0 0 5px darkorange;
+    text-align: center;
+}
+
+#cat1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
