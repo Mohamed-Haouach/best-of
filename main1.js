@@ -3,8 +3,9 @@ $("body").append(
     `<div id="firstname">`+
     localStorage.getItem("firstname") +
     `</div>`+
-    `<div id="lastname">` +
-    localStorage.getItem("author")+
+    `<div id="Lastname">` +
+    localStorage.getItem("Lastname")+
     `</div>`
+    
 )
 });
